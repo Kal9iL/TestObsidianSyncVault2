@@ -5,6 +5,31 @@
 
 ---
 
+🔍 `2026-02-28T12:23:36.855Z` **[DEBUG]** Sync action for the way to ds.md: none
+🔍 `2026-02-28T12:23:36.481Z` **[DEBUG]** Sync action for some file.md: none
+🔍 `2026-02-28T12:23:36.190Z` **[DEBUG]** Sync action for add new file to sync.md: none
+🔍 `2026-02-28T12:23:35.897Z` **[DEBUG]** Sync action for a.md: none
+🔍 `2026-02-28T12:23:35.605Z` **[DEBUG]** Sync action for a new test.md: none
+🔍 `2026-02-28T12:23:35.323Z` **[DEBUG]** Sync action for Welcome.md: none
+🔍 `2026-02-28T12:23:34.543Z` **[DEBUG]** Sync action for Untitled.md: none
+🔍 `2026-02-28T12:23:34.246Z` **[DEBUG]** Sync action for Untitled 1.md: none
+🔍 `2026-02-28T12:23:33.956Z` **[DEBUG]** Sync action for Testfileno10.md: none
+🔍 `2026-02-28T12:23:33.233Z` **[DEBUG]** Sync action for Test obsidian note 2.md: none
+🔍 `2026-02-28T12:23:32.895Z` **[DEBUG]** Sync action for Test file.md: none
+🔍 `2026-02-28T12:23:32.596Z` **[DEBUG]** Sync action for README.md: none
+🔍 `2026-02-28T12:23:32.284Z` **[DEBUG]** Sync action for PM Wong says higher wages not oneoff payouts tackle cost pressures Singapore fertility hitpopulation decline looms Singapore live news.md: none
+🔍 `2026-02-28T12:23:31.543Z` **[DEBUG]** Sync action for Gitworktree/Git Worktree.md: none
+🔍 `2026-02-28T12:23:31.247Z` **[DEBUG]** Sync action for File to test.md: none
+🔍 `2026-02-28T12:23:30.901Z` **[DEBUG]** Sync action for A new file to te.md: none
+ℹ️ `2026-02-28T12:22:46.584Z` **[INFO]** syncNow() completed: pushed=1, pulled=0, conflicts=0, errors=0
+🔍 `2026-02-28T12:22:46.525Z` **[DEBUG]** Sync action for A new file to te.md: none
+🔍 `2026-02-28T12:22:46.460Z` **[DEBUG]** Sync action for a new test.md: none
+🔍 `2026-02-28T12:22:46.404Z` **[DEBUG]** Sync action for a.md: none
+🔍 `2026-02-28T12:22:46.340Z` **[DEBUG]** Sync action for add new file to sync.md: none
+🔍 `2026-02-28T12:22:46.270Z` **[DEBUG]** Sync action for File to test.md: none
+🔍 `2026-02-28T12:22:46.204Z` **[DEBUG]** File state updated: github_sync_debug_log.md (hash: 1yonyp, sha: )
+🔍 `2026-02-28T12:22:45.948Z` **[DEBUG]** File pushed to GitHub: github_sync_debug_log.md
+🔍 `2026-02-28T12:22:45.044Z` **[DEBUG]** File github_sync_debug_log.md: remote doesn't exist, pushing to remote
 🔍 `2026-02-28T12:22:44.478Z` **[DEBUG]** Sync action for Gitworktree/Git Worktree.md: none
 🔍 `2026-02-28T12:22:44.419Z` **[DEBUG]** Sync action for PM Wong says higher wages not oneoff payouts tackle cost pressures Singapore fertility hitpopulation decline looms Singapore live news.md: none
 🔍 `2026-02-28T12:22:44.347Z` **[DEBUG]** Sync action for README.md: none
