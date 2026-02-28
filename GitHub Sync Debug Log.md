@@ -5,6 +5,22 @@
 
 ---
 
+🔍 `2026-02-28T11:56:57.858Z` **[DEBUG]** Sync action for PM Wong says higher wages not oneoff payouts tackle cost pressures Singapore fertility hitpopulation decline looms Singapore live news.md: none
+🔍 `2026-02-28T11:56:57.794Z` **[DEBUG]** Sync action for README.md: none
+🔍 `2026-02-28T11:56:57.731Z` **[DEBUG]** Sync action for some file.md: none
+🔍 `2026-02-28T11:56:57.668Z` **[DEBUG]** Sync action for Test file.md: none
+🔍 `2026-02-28T11:56:57.605Z` **[DEBUG]** Sync action for Test obsidian note 2.md: none
+🔍 `2026-02-28T11:56:57.539Z` **[DEBUG]** Sync action for Testfileno10.md: none
+🔍 `2026-02-28T11:56:57.483Z` **[DEBUG]** Sync action for the way to ds.md: none
+🔍 `2026-02-28T11:56:57.417Z` **[DEBUG]** Sync action for Untitled.md: none
+🔍 `2026-02-28T11:56:57.339Z` **[DEBUG]** Sync action for Welcome.md: none
+🔍 `2026-02-28T11:56:57.231Z` **[DEBUG]** File removed from state: Untitled 1.md
+ℹ️ `2026-02-28T11:56:57.180Z` **[INFO]** Remote deletion: Untitled 1.md - no local changes, deleting local file
+🔍 `2026-02-28T11:56:57.076Z` **[DEBUG]** File removed from state: Gitworktree/Git Worktree.md
+ℹ️ `2026-02-28T11:56:57.027Z` **[INFO]** Remote deletion: Gitworktree/Git Worktree.md - no local changes, deleting local file
+ℹ️ `2026-02-28T11:56:56.970Z` **[INFO]** Deletions detected: 2 remote deletions, 0 local deletions
+🔍 `2026-02-28T11:56:56.953Z` **[DEBUG]** GitHub token set
+🔍 `2026-02-28T11:56:22.908Z` **[DEBUG]** Conflict count changed: 0
 ℹ️ `2026-02-28T11:46:06.277Z` **[INFO]** Pushed new file: Testfileno10.md
 🔍 `2026-02-28T11:46:05.775Z` **[DEBUG]** File pushed to GitHub: Testfileno10.md
 🔍 `2026-02-28T11:46:04.887Z` **[DEBUG]** Pushing new local file: Testfileno10.md
